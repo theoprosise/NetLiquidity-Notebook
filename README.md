@@ -1,0 +1,3 @@
+# NetLiquidity-Notebook
+Jupyter notebook that calculates, explains, and stores the current value of Net Liquidity. Two week leading indicator for $SPX.
+View notebook for more detail...
